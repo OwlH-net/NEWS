@@ -1,8 +1,8 @@
 
-
-Release 0.9.0 changelog 
+OwlH CHANGELOG
 
 ## [Unreleased]
+- Rule detail and rule modification from UI form
 
 
 
