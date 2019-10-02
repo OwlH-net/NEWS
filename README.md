@@ -20,22 +20,22 @@ Software TAP & Traffic Transport Management
 OwlH Node - Manage Traffic forwarded from remote systems to OwlH Node 
 ---------------------------------------------------------------------
 
-    .- Traffic sent to local Socket from remote system and replayed to a local Network Interface
-    .- Traffic sent to local Socket from remote system and stored in PCAP file
-    .- Traffic read from local Network interface and send it to a remote system by socket
-    .- Traffic from PCAP file to a local Network Interface
+    - Traffic sent to local Socket from remote system and replayed to a local Network Interface
+    - Traffic sent to local Socket from remote system and stored in PCAP file
+    - Traffic read from local Network interface and send it to a remote system by socket
+    - Traffic from PCAP file to a local Network Interface
 
 OwlH Master - Manage Traffic forwarded from remote systems to OwlH Master 
 -------------------------------------------------------------------------
 
-    .- Traffic sent to local Socket from remote system and replayed to a local Network interface
-    .- Traffic sent to local Socket from remote system and stored in PCAP file
-    .- Dispatch traffic between different OwlH Nodes using NFS resources
-    .- Traffic forensic with Moloch by listening network interface or reading PCAP files
+    - Traffic sent to local Socket from remote system and replayed to a local Network interface
+    - Traffic sent to local Socket from remote system and stored in PCAP file
+    - Dispatch traffic between different OwlH Nodes using NFS resources
+    - Traffic forensic with Moloch by listening network interface or reading PCAP files
 
 Open Rules
 ==========
 
-    .- Sync all local rulesets to the right nodes 
-    .- Add notes to rules
+    - Sync all local rulesets to the right nodes 
+    - Add notes to rules
 
