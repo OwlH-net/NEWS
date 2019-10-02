@@ -39,3 +39,8 @@ Open Rules
     - Sync all local rulesets to the right nodes 
     - Add notes to rules
 
+## [0.8.0] - 2019-08-01
+### Added
+
+- OwlH Installer software 
+- OwlH Client software for linux - software tap control
