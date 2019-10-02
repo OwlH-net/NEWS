@@ -2,7 +2,10 @@
 OwlH CHANGELOG
 
 ## [Unreleased]
-- Rule detail and rule modification from UI form
+- Rule detail and rule modification from UI
+- Zeek cluster configuration from UI
+- Wazuh Agent - Manage logs files to monitor from UI
+- Wazuh Agent - see last 10, 100, 500 lines from any monitored log file
 
 
 
