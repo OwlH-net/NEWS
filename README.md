@@ -14,8 +14,8 @@ OwlH CHANGELOG
 Network IDS
 ===========
 
-    .- Improved Suricata Service management and configuration from UI.
-    .- Improved Zeek Service management and configuration from UI.
+    - Improved Suricata Service management and configuration from UI.
+    - Improved Zeek Service management and configuration from UI.
 
 Software TAP & Traffic Transport Management
 ===========================================
