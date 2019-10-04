@@ -5,7 +5,9 @@ OwlH CHANGELOG
 - Rule detail and rule modification from UI
 - Zeek cluster configuration from UI
 - Wazuh Agent - Manage logs files to monitor from UI
-- Wazuh Agent - see last 10, 100, 500 lines from any monitored log file
+- Wazuh Agent - see last 10, 50, 100 lines from any monitored log file
+- Alert if monitorized log file is not changing. 
+- check log file for Suricata and Zeek 
 
 
 
