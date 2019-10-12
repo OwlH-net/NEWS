@@ -12,6 +12,7 @@ OwlH CHANGELOG
     - OS Support - CentOS 8, FreeBSD, ...
     - API - Initial Swagger based API documentation
     - API - Curl samples repository
+    - Visualization - Rules Visualization and dashboards on Kibana -> master-kibana-master (t-sec or event)
 
 ## [0.10.0] - 2019-10-11
 ### Added
