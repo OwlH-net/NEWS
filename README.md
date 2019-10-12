@@ -13,6 +13,8 @@ OwlH CHANGELOG
     - API - Initial Swagger based API documentation
     - API - Curl samples repository
     - Visualization - Rules Visualization and dashboards on Kibana -> master-kibana-master (t-sec or event)
+    - Nodes - Sort && filter
+    - Nodes - Groups, create and add
 
 ## [0.10.0] - 2019-10-11
 ### Added
