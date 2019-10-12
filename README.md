@@ -4,23 +4,27 @@ OwlH CHANGELOG
 
 ## [Unreleased]
 
-    - Zeek cluster configuration from UI
-    - Alert if monitored log file is not changing, is too big.
-    - OS Support - CentOS 8, FreeBSD, 
-
+    - Network IDS - Zeek cluster configuration from UI/API
+    - Network IDS - Interface Params configuration from UI/API
+    - Monitor - Alert if monitored log file is not changing, is too big.
+    - Monitor - Key actions are registered
+    - Monitor - Internal status alerts, email notification and approved
+    - OS Support - CentOS 8, FreeBSD, ...
+    - API - Initial Swagger based API documentation
+    - API - Curl samples repository
 
 ## [0.10.0] - 2019-10-11
 ### Added
-    - Open Rules - Rule detail and rule modification from UI
+    - Open Rules - Rule detail and rule modification from UI/API
     - Open Rules - Search suricata rules by SID or MSG
-    - Node Services - Wazuh Agent - Manage logs files to be monitored by from UI
+    - Node Services - Wazuh Agent - Manage logs files to be monitored by from UI/API
     - Node Services - Wazuh Agent - see size and read last 10, 50, 100 lines from any monitored log file
     - Node Services - Analyzer - see size and read last 10, 50, 100 lines from analyzer output file
     - Monitor - Monitor log file for Suricata, Zeek and others. size and last 10, 50, 100 lines
     - OS Support - CentOS, Debian/Ubuntu, Raspbidian
 
 ### Bugs
-    - Multiple bugs or little improvements to previous functionalities
+    - Multiple bugs or small improvements to previous functionalities
 
 
 ## [0.9.0] - 2019-09-30
