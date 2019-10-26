@@ -4,17 +4,25 @@ OwlH CHANGELOG
 
 ## [Unreleased]
 
-    - Network IDS - Zeek cluster configuration from UI/API
+    - II - Network IDS - Zeek cluster configuration from UI/API
     - Network IDS - Interface Params configuration from UI/API
     - Monitor - Alert if monitored log file is not changing, is too big.
-    - Monitor - Key actions are registered
+    - II - Monitor - Key actions are registered
     - Monitor - Internal status alerts, email notification and approved
     - OS Support - CentOS 8, FreeBSD, ...
-    - API - Initial Swagger based API documentation
+    - II - API - Initial Swagger based API documentation
     - API - Curl samples repository
-    - Visualization - Rules Visualization and dashboards on Kibana -> master-kibana-master (t-sec or event)
+    - II - Visualization - Rules Visualization and dashboards on Kibana -> master-kibana-master (t-sec or event)
     - Nodes - Sort && filter
     - Nodes - Groups, create and add
+    
+
+## [0.10.1] - 2019-10-25
+
+    - I - Network IDS - Zeek cluster configuration from UI/API
+    - I - Monitor - Key actions are registered
+    - I - API - Initial Swagger based API documentation
+    - I - Visualization - Rules Visualization and dashboards on Kibana -> master-kibana-master (t-sec or event)
 
 ## [0.10.0] - 2019-10-11
 ### Added
