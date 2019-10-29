@@ -14,7 +14,8 @@ OwlH CHANGELOG
     - API - Curl samples repository
     - II - Visualization - Rules Visualization and dashboards on Kibana -> master-kibana-master (t-sec or event)
     - Nodes - Sort && filter
-    - Nodes - Groups, create and add
+    - Nodes - Groups - create, add nodes
+    - Nodes - Groups - ruleset assignament 
     
 
 ## [0.10.1] - 2019-10-25
