@@ -15,7 +15,7 @@ OwlH CHANGELOG
     - II - Visualization - Rules Visualization and dashboards on Kibana -> master-kibana-master (t-sec or event)
     - Nodes - Sort && filter
     - Nodes - Groups - create, add nodes
-    - Nodes - Groups - ruleset assignament to group, sync to group members and rulesets merge when a member belong to more than one group.
+    - Nodes - Groups - ruleset assignament to group, sync to group members and rulesets merge when a member belongs to more than one group.
     - Nodes - Bulk Add
     
 
