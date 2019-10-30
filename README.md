@@ -16,6 +16,7 @@ OwlH CHANGELOG
     - Nodes - Sort && filter
     - Nodes - Groups - create, add nodes
     - Nodes - Groups - ruleset assignament 
+    - Nodes - Bulk Add
     
 
 ## [0.10.1] - 2019-10-25
