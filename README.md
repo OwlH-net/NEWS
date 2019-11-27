@@ -7,6 +7,7 @@ OwlH CHANGELOG
     - Monitor - Key actions are registered
     - Monitor - Internal status alerts, email notification and approved
     - API - Curl samples repository
+    - API - Authentication 
 
 
 ## [0.11.0] - 2019-11-22
