@@ -4,11 +4,25 @@ OwlH CHANGELOG
 ## [Unreleased]
 
     - Monitor - Alert if monitored log file is not changing, is too big.
-    - Monitor - Key actions are registered
+    - Monitor - Key actions are registered with deeper detail
     - Monitor - Internal status alerts, email notification and approved
     - API - Curl samples repository
-    - API - Authentication 
+    - User - LDAP User authentication
+    - Suricata - manage individual configurations file
+    - Open Rules - Suricata Rule syntax validation
+    - Open Rules - Create a custom ruleset from a folder including all .rules files
 
+## [0.13.0] - 2020-02-01
+
+    - API and UI - User authentication based on user local passwd.
+    - User - User Management - basic user manager funcionality for admin user.
+    - User - default user admin with pass admin
+
+## [0.12.0] - 2019-12-22
+
+    - API - JWT requests validation
+    - Suricata service options - Manage and Expert modes.
+    - Zeek service options - Zeek cluster and standalone configuration improvement. 
 
 ## [0.11.0] - 2019-11-22
 
