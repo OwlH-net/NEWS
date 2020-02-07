@@ -11,6 +11,7 @@ OwlH CHANGELOG
     - Suricata - manage individual configurations file
     - Open Rules - Suricata Rule syntax validation
     - Open Rules - Create a custom ruleset from a folder including all .rules files
+    - Master - Receive security events from nodes for a central extra analysis and correlation 
 
 ## [0.13.0] - 2020-02-01
 
